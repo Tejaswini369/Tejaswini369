@@ -1,9 +1,17 @@
 # Tejaswini_Kallakuri
 <h1 align="center">Hi 👋, I'm Sai Lakshmi Tejaswini Kallakuri</h1>
 <h3 align="center">A passionate AI Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=ai+engineer+gifs&tbm=isch&ved=2ahUKEwjJm7C1uu-DAxWYxckDHWOECUUQ2-cCegQIABAA&oq=ai+engineer+gifs&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6CggAEIAEEIoFEEM6BggAEAgQHjoHCAAQgAQQGFD3AViEDGCvDWgAcAB4AIABR4gB5QKSAQE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=y5CtZYmKOpiLp84P44imqAQ&bih=632&biw=1280&rlz=1C1VDKB_enUS1034US1034#imgrc=zIrIOtxLnR5E5M">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdatatobiz%2Fai-consulting-explained-a-comprehensive-guide-for-businesses-9632fc16407e&psig=AOvVaw1MbCGqaSGZpsiSoA4SL-1d&ust=1705960048424000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjPqsm674MDFQAAAAAdAAAAABAP">
 
 - 🌱 I’m currently learning **AWS Cloud**
+- 
+- Skills
+- Programming Languages: C, Python
+Data Science skills: Big Data Analytics, Data Mining, Predictive Modeling, SQL
+Algorithms: Classification, Decision Trees, Random Forests, KNN, CNN, RNN, GANs
+Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, SciPy, TensorFlow, PyTorch, ML Kit
+Tools: Jupyter, MATLAB, Splunk, ROS, Cloud Compare, MeshLab, Hadoop, Spark, AWS
+
 
 - 📫 How to reach me **saitejaswini369@gmail.com**
 
