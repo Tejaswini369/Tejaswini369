@@ -1,10 +1,10 @@
 # Tejaswini_Kallakuri
 <h1 align="center">Hi 👋, I'm Sai Lakshmi Tejaswini Kallakuri</h1>
 <h3 align="center">A passionate AI Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdatatobiz%2Fai-consulting-explained-a-comprehensive-guide-for-businesses-9632fc16407e&psig=AOvVaw1MbCGqaSGZpsiSoA4SL-1d&ust=1705960048424000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjPqsm674MDFQAAAAAdAAAAABAP">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/Tejaswini369/Tejaswini_Kallakuri/assets/52880298/490c5455-5b2e-46ce-9ef9-416e026f7d23)
+">
 
 - 🌱 I’m currently learning **AWS Cloud**
-- 
 - Skills
 - Programming Languages: C, Python
 Data Science skills: Big Data Analytics, Data Mining, Predictive Modeling, SQL
