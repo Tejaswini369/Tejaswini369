@@ -1,4 +1,4 @@
-# Tejaswini_Kallakuri
+# Tejaswini Kallakuri
 <h1 align="center">Hi 👋, I'm Sai Lakshmi Tejaswini Kallakuri</h1>
 <h3 align="center">A passionate AI Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzQyYzlyZTQ1MWhnZmc4bW91OGdvMmF6cm1tdTdrcXhrOTBoZ29ieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/q7jSKGKd5J08gGRaV9/giphy.gif">
