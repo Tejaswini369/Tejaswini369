@@ -3,7 +3,7 @@
 <h3 align="center">A passionate AI Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzQyYzlyZTQ1MWhnZmc4bW91OGdvMmF6cm1tdTdrcXhrOTBoZ29ieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/q7jSKGKd5J08gGRaV9/giphy.gif">
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently delving into **GEN AI, LLMS**
 - Skills: Programming Languages: C, Python
 Data Science skills: Big Data Analytics, Data Mining, Predictive Modeling, SQL
 Algorithms: Classification, Decision Trees, Random Forests, KNN, CNN, RNN, GANs
