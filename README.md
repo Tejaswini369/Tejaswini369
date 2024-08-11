@@ -15,7 +15,6 @@ Tools: Jupyter, MATLAB, Splunk, ROS, Cloud Compare, MeshLab, Hadoop, Spark, AWS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/tejaswini kallakuri](https://www.linkedin.com/in/tejaswini-kallakuri)" target="blank"><img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg]]" alt="tejaswini kallakuri" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tejaswini-kallakuri" target="_blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="tejaswini kallakuri" height="30" width="40" /></a>
 </p>
 </p>
